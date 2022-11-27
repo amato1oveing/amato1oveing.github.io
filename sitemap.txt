@@ -1,0 +1,5 @@
+http://blog.zh4ngchi.cn/categories/index.html
+http://blog.zh4ngchi.cn/about/index.html
+http://blog.zh4ngchi.cn/2022/11/26/test-my-site/
+http://blog.zh4ngchi.cn/2022/11/26/hello-world/
+http://blog.zh4ngchi.cn/
